@@ -1,6 +1,8 @@
 # UC-using-pulp
+Using pulp package to implement UC problem;
+
 Modelling Unit Commitment Problem as a MIP problem, using pulp package and cplex(or gurobi) to solve it.
-Using pulp package to implement UC problem
+
 
 
 
